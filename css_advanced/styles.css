@@ -5,3 +5,13 @@
     left: -0px;
     position: fixed;
 }
+.container {
+    width: 100%;
+    max-width: 1103px;
+    margin: 0 auto;
+}
+
+header {
+    height: 29.46px;
+    background-color: 
+}
