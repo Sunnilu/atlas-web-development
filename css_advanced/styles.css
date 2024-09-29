@@ -547,6 +547,32 @@
     color: #071629;
 }
 
+#part_1_testimonials {
+    width: 1440px;
+    height: 392px;
+    position: absolute;
+    top: 1093px;
+    left: -1px;
+}
+
+.testimonial {
+    width: 943px;
+    height: 160px;
+    position: absolute;
+    top: 1201px;
+    left: 259px;
+}
+
+.background {
+    width: 1440px;
+    height: 392px;
+    position: absolute;
+    top: 1093px;
+    left: -1px;
+    background-color: #C271FF;
+}
+
+
 
 
 
