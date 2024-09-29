@@ -9,9 +9,96 @@
     width: 100%;
     max-width: 1103px;
     margin: 0 auto;
+    height: 29.46px;
+    position: absolute;
+    top: 356.02px;
+    left: 171.59px;
 }
 
-header {
+.header {
+    width: 1103.41px;
     height: 29.46px;
-    background-color: 
+    position: absolute;
+    top: 35.02px;
+    left: 171.59px;
+}
+
+.menu {
+    width: 234px;
+    height: 15px;
+    position: absolute;
+    top: 37px;
+    left: 104px;
+}
+
+.text-login {
+    width: 34px;
+    height: 15px;
+    position: absolute;
+    left: 200px;
+}
+
+.text-pricing {
+    width: 45px;
+    height: 15px;
+    position: absolute;
+    left: 102px;
+}
+
+.typeography {
+    font-family: 'Source Scans Pro';
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15.08px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.text-courses {
+    width: 50px;
+    height: 15px;
+}
+
+.logo {
+    width: 167.02px;
+    height: 29.46px;
+    position: absolute;
+    top: 35.02px;
+    left: 171.59px;
+}
+
+.smile-path {
+    width: 35.57px;
+    height: 8.87px;
+    position: absolute;
+    top: 55.68px;
+    left: 171.59px;
+    transform: rotate(7deg);
+    color: #FFFFFF;
+}
+
+.path {
+    width: 7.87px;
+    height: 11.85px;
+    position: abosolute;
+    top: 35.02px;
+    left: 194.71px;
+    color: #FFFFFF;
+}
+
+.path {
+    width: 7.87 px;
+    height: 11.85px;
+    position: absolute;
+    top: 35.02px;
+    left: 175.99px;
+    color: #FFFFFF;
+}
+
+.smileschool {
+    width: 111.83px;
+    height: 12.58px;
+    position: absolute;
+    top: 41.54px;
+    left: 226.77px;
+    color: #FFFFFF;
 }
