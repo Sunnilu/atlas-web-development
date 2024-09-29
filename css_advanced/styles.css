@@ -399,4 +399,44 @@
     color: #FFFFFF;
 }
 
+.Text-Learn-from-the-pros {
+    width: 261px;
+    height: 40px;
+    position: absolute;
+    top: 631px;
+    left: 604px;
+    content: 'Learn from the pros';
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40.22px;
+    text-align: center;
+}
+
+.Span-whitespace {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40.22px;
+    text-align: center;
+}
+
+.Span-for-the-pros {
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40.22px;
+    text-align: center;
+}
+
+.Button {
+    width: 162px;
+    height: 44px;
+    position: absolute;
+    top: 419px;
+    left: 639px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+}
+
+
 
