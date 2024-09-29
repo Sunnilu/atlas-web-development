@@ -272,3 +272,45 @@
     color: #FFFFFF;
 }
 
+.pro_2 {
+    width: 150px;
+    height: 237px;
+    position: absolute;
+    top: 758px;
+    left: 506px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.Text-Best-little-smile {
+    width: 150px;
+    height: 48px;
+    position: absolute;
+    top: 189px;
+    content: 'Best little smile 2017';
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Text-Nannie-Lawrence {
+    width: 150px;
+    height: 27px;
+    position: absolute;
+    top: 160px;
+    content: 'Nannie Lawrence';
+    font-family: 'Source Sans Pro';
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
