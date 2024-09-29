@@ -182,3 +182,43 @@
     top: 45.29px;
     left: 266.61px;
 }
+
+.path {
+    width: 3.96px;
+    height: 12.33px;
+    position: absolute;
+    top: 41.67px;
+    left: 261.1px;
+}
+
+.path {
+    width: 3.87px;
+    height: 8.59px;
+    position: absolute;
+    top: 45.41px;
+    left: 255.59px;
+}
+
+.path {
+    width: 3.92px;
+    height: 2.74px;
+    position: absolute;
+    top: 41.54px;
+    left: 255.56px;
+}
+
+.m-path {
+    width: 14.47px;
+    height: 8.59px;
+    position: absolute;
+    top: 45.41px;
+    left: 239.45px;
+}
+
+.s-path {
+    width: 10.85px;
+    height: 12.58px;
+    position: absolute;
+    top: 41.54px;
+    left: 226.77px;
+}
