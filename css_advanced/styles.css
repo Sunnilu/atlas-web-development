@@ -572,6 +572,137 @@
     background-color: #C271FF;
 }
 
+#part_2_tutorials {
+    width: 1228px;
+    height: 450px;
+    position: absolute;
+    top: 1572px;
+    left: 106px;
+}
+
+.tuto_4 {
+    width: 255px;
+    height: 335px;
+    position: absolute;
+    top: 115px;
+    left: 914px;
+}
+
+.play {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    top: 45px;
+    left: 96px;
+}
+
+.Triangle {
+    width: 16px;
+    height: 13px;
+    position: absolute;
+    top: 69.5px;
+    left: 136.5px;
+    transform: rotate(-90deg);
+    background-color: #C271FF;
+}
+
+.oval {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    top: 45px;
+    left: 96px;
+    opacity: 0.8604;
+    background-color: #FFFFFF;
+}
+
+.preview {
+    width: 255px;
+    height: 154px;
+}
+
+.Text-Happy-Smile {
+    width: 89px;
+    height: 20px;
+    position: absolute;
+    top: 172px;
+    left: 13px;
+    content: 'Happy Smile';
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20.11px;
+    padding: 0;
+    color: #071629;
+}
+
+.Text-Lorem-ipsum-dolor-si {
+    width: 242px;
+    height: 48px;
+    position: absolute;
+    top: 199.6px;
+    left: 13px;
+    content: 'Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.';
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0;
+    color: #071629;
+}
+
+.rating {
+    width: 107px;
+    height: 15px;
+    position: absolute;
+    top: 305px;
+    left: 13px;
+}
+
+.Text-8-min {
+    width: 34px;
+    height: 27px;
+    position: absolute;
+    top: 297px;
+    left: 199px;
+    content: '8 min';
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    text-align: right;
+    color: #C271FF;
+}
+
+.Text-Phillip-Massey {
+    width: 86px;
+    height: 27px;
+    position: absolute;
+    top: 263px;
+    left: 56px;
+    content: 'Phillip Massey';
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #C271FF;
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 261px;
+    left: 13px;
+}
+
+.background {
+    width: 255px;
+    height: 335px;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.17);
+}
+
 
 
 
