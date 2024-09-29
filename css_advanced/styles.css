@@ -519,6 +519,35 @@
     color: #FFFFFF;
 }
 
+.background {
+    width: 1440px;
+    height: 1093px;
+}
+
+.Object {
+    width: 1448.15px;
+    height: 1055px;
+    position: absolute;
+    top: -66px;
+    left: -4.08px;
+}
+
+.Bitmap {
+    width: 1448.15px;
+    height: 1055px;
+    position: absolute;
+    top: -66px;
+    left: -4.08px;
+    background-image: url('image.png');
+}
+
+.mask {
+    width: 1440px;
+    height: 1093px;
+    color: #071629;
+}
+
+
 
 
 
