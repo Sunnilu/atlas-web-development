@@ -5,6 +5,7 @@
     left: -0px;
     position: fixed;
 }
+
 .container {
     width: 100%;
     max-width: 1103px;
@@ -348,6 +349,48 @@
     position: absolute;
     top: 160px;
     content: 'Bruce Walters';
+    font-family: 'Source Sans Pro';
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.pro_4 {
+    width: 150px;
+    height: 237px;
+    position: absolute;
+    top: 758px;
+    left: 1076px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.Text-24h-smiles-winner {
+    width: 150px;
+    height: 48px;
+    position: absolute;
+    top: 189px;
+    content: '24h smiles, winner 2016-2019';
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Text-Henry-Hughes {
+    width: 150px;
+    height: 27px;
+    position: absolute;
+    top: 160px;
+    content: 'Henry Hughes';
     font-family: 'Source Sans Pro';
     font-weight: 900;
     font-size: 18px;
