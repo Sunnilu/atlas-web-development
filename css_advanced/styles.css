@@ -314,3 +314,46 @@
     color: #FFFFFF;
 }
 
+.pro_3 {
+    width: 150px;
+    height: 237px;
+    position: absolute;
+    top: 758px;
+    left: 787px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.Best-Friend-Smile {
+    width: 150px;
+    height: 48px;
+    position: absolute;
+    top: 189px;
+    content: 'Best Friend Smile, live performance 2017';
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Text-Bruce-Walters {
+    width: 150px;
+    height: 27px;
+    position: absolute;
+    top: 160px;
+    content: 'Bruce Walters';
+    font-family: 'Source Sans Pro';
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
