@@ -222,3 +222,53 @@
     top: 41.54px;
     left: 226.77px;
 }
+
+.pros {
+    width: 1009px;
+    height: 237px;
+    position: absolute;
+    top: 758px;
+    left: 217px;
+}
+
+.pro_1 {
+    width: 150px;
+    height: 237px;
+    position: absolute;
+    top: 758px;
+    left: 217px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.Text-Smile-of-the-year {
+    width: 150px;
+    height: 48px;
+    position: absolute;
+    top: 189px;
+    content: "Smile of the year, 2018-2019";
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Text-Phillip-Massey {
+    width: 150px;
+    height: 27px;
+    position: absolute;
+    top: 160px;
+    font-family: 'Source Sans Pro';
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
