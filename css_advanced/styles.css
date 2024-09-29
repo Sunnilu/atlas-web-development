@@ -438,5 +438,87 @@
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
 }
 
+.Text-REGISTER-FOR-FREE {
+    width: 121px;
+    height: 18px;
+    position: absolute;
+    top: 13px;
+    left: 20px;
+    content: 'REGISTER FOR FREE';
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17.6px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.button_background {
+    width: 162px;
+    height: 44px;
+    background-color: #C271FF;
+}
+
+.Text-LAUGH {
+    width: 49px;
+    height: 20px;
+    position: absolute;
+    top: 361px;
+    left: 797px;
+    content: 'LAUGH';
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20.11px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Text-GRIN {
+    width: 36px;
+    height: 20px;
+    position: absolute;
+    top: 361px;
+    left: 704px;
+    content: 'GRIN';
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20.11px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Text-SMILES {
+    width: 52px;
+    height: 20px;
+    position: absolute;
+    top: 361px;
+    left: 593px;
+    content: 'SMILES';
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20.11px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Text-Get-schooled {
+    width: 684px;
+    height: 151px;
+    position: absolute;
+    top: 220px;
+    left: 3787px;
+    content: 'Get schooled';
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 150.84px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
 
 
