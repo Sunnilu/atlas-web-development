@@ -47,5 +47,4 @@ p is a selector in CSS( it's pointing to the HTML element you want to style: <p>
 
 color is a property also, and so is red it's the property value, text-align is a property, and center is the property value.
 
-CSS Selectors
 
