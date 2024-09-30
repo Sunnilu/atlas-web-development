@@ -1,0 +1,411 @@
+/* Global Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.6;
+    color: #071629;
+}
+
+.container {
+    max-width: 1103px;
+    margin: 0 auto;
+    height: 29.46px;
+    position: relative;
+    top: 35.02px;
+    left: 171.59px;
+}
+
+.header {
+    position: absolute;
+    top: 35.02px;
+    left: 171.59px;
+    width: 1103.41px;
+    height: 29.46px;
+}
+
+.menu {
+    position: absolute;
+    top: 37px;
+    left: 104px;
+    width: 234px;
+    height: 15px;
+}
+
+.login-text {
+    position: absolute;
+    left: 200px;
+    width: 34px;
+    height: 15px;
+}
+
+.pricing-text {
+    position: absolute;
+    left: 102px;
+    width: 45px;
+    height: 15px;
+}
+
+.typography {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15.08px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.courses-text {
+    width: 50px;
+    height: 15px;
+}
+
+.logo {
+    position: absolute;
+    top: 35.02px;
+    left: 171.59px;
+    width: 167.02px;
+    height: 29.46px;
+}
+
+.smile-path {
+    position: absolute;
+    top: 55.68px;
+    left: 171.59px;
+    width: 35.57px;
+    height: 8.87px;
+    transform: rotate(7deg);
+    color: #FFFFFF;
+}
+
+.path {
+    position: absolute;
+    top: 35.02px;
+    left: 194.71px;
+    width: 7.87px;
+    height: 11.85px;
+    color: #FFFFFF;
+}
+
+.smile-school {
+    position: absolute;
+    top: 41.54px;
+    left: 226.77px;
+    width: 111.83px;
+    height: 12.58px;
+    color: #FFFFFF;
+}
+
+/* ... (other path styles omitted for brevity) */
+
+.main-part {
+    width: 1440px;
+    height: 1093px;
+}
+
+.pros {
+    position: absolute;
+    top: 758px;
+    left: 217px;
+    width: 1009px;
+    height: 237px;
+}
+
+.pro_1 {
+    position: absolute;
+    top: 758px;
+    left: 217px;
+    width: 150px;
+    height: 237px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.smile-of-the-year {
+    position: absolute;
+    top: 189px;
+    content: 'Smile of the year, 2018-2019';
+    font-style: italic;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.phillip-massey {
+    position: absolute;
+    top: 160px;
+    content: 'Phillip Massey';
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* ... (other pro styles omitted for brevity) */
+
+.learn-from-pros {
+    position: absolute;
+    top: 631px;
+    left: 604px;
+    width: 261px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40.22px;
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 419px;
+    left: 639px;
+    width: 162px;
+    height: 44px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+}
+
+.register-button-text {
+    position: absolute;
+    top: 13px;
+    left: 20px;
+    content: 'REGISTER FOR FREE';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17.6px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.button-background {
+    width: 162px;
+    height: 44px;
+    background-color: #C271FF;
+}
+
+.laugh-text {
+    position: absolute;
+    top: 361px;
+    left: 797px;
+    width: 49px;
+    height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.grin-text {
+    position: absolute;
+    top: 361px;
+    left: 704px;
+    width: 36px;
+    height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.smiles-text {
+    position: absolute;
+    top: 361px;
+    left: 593px;
+    width: 52px;
+    height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.get-schooled {
+    position: absolute;
+    top: 220px;
+    left: 378px;
+    width: 684px;
+    height: 151px;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 150.84px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1093px;
+}
+
+/* Testimonials Section */
+#part_1_testimonials {
+    position: absolute;
+    top: 1093px;
+    left: -1px;
+    width: 1440px;
+    height: 392px;
+}
+
+.testimonial {
+    position: absolute;
+    top: 1201px;
+    left: 259px;
+    width: 943px;
+    height: 160px;
+}
+
+.testimonial-background {
+    position: absolute;
+    top: 1093px;
+    left: -1px;
+    width: 1440px;
+    height: 392px;
+    background-color: #C271FF;
+}
+
+/* Tutorials Section */
+#part_2_tutorials {
+    position: absolute;
+    top: 1572px;
+    left: 106px;
+    width: 1228px;
+    height: 450px;
+}
+
+.tuto_4 {
+    position: absolute;
+    top: 115px;
+    left: 914px;
+    width: 255px;
+    height: 335px;
+}
+
+.play {
+    position: absolute;
+    top: 45px;
+    left: 96px;
+    width: 64px;
+    height: 64px;
+}
+
+.triangle {
+    position: absolute;
+    top: 69.5px;
+    left: 136.5px;
+    width: 16px;
+    height: 13px;
+    transform: rotate(-90deg);
+    background-color: #C271FF;
+}
+
+.oval {
+    position: absolute;
+    top: 45px;
+    left: 96px;
+    width: 64px;
+    height: 64px;
+    opacity: 0.8604;
+    background-color: #FFFFFF;
+}
+
+.preview {
+    width: 255px;
+    height: 154px;
+}
+
+.happy-smile {
+    position: absolute;
+    top: 172px;
+    left: 13px;
+    width: 89px;
+    height: 20px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20.11px;
+    color: #071629;
+}
+
+.lorem-ipsum {
+    position: absolute;
+    top: 199.6px;
+    left: 13px;
+    width: 242px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #071629;
+}
+
+.rating {
+    position: absolute;
+    top: 305px;
+    left: 13px;
+    width: 107px;
+    height: 15px;
+}
+
+.eight-min {
+    position: absolute;
+    top: 297px;
+    left: 199px;
+    width: 34px;
+    height: 27px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    text-align: right;
+    color: #C271FF;
+}
+
+.phillip-massey {
+    position: absolute;
+    top: 263px;
+    left: 56px;
+    width: 86px;
+    height: 27px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #C271FF;
+}
+
+.avatar {
+    position: absolute;
+    top: 261px;
+    left: 13px;
+    width: 30px;
+    height: 30px;
+}
+
+.tutorial-background {
+    width: 255px;
+    height: 335px;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.17);
+}
+
+/* Other Sections */
+#part_3_free_membership {
+    position: absolute;
+    top: 2109px;
+    width: 1440px;
+    height: 502px;
+}
+
+#part_4_FAQ {
+    position: absolute;
+    top: 2678px;
+    left: 249px;
+    width: 920px;
+    height: 707px;
+}
+
+#part_5_footer {
+    position: absolute;
+    top: 1369px;
+    width: 1440px;
+    height: 249px;
+}
+
