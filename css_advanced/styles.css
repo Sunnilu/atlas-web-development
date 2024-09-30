@@ -5,6 +5,15 @@
     padding: 0;
 }
 
+.element {
+    width: 1440px;
+    height: 3718px;
+    top: -0px;
+    left: -0px;
+    color: #FFFFFF;
+    export: 2x, PNG;
+}
+        		
 body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1.6;
